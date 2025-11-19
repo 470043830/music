@@ -20,7 +20,8 @@ class MusicPlayer {
             {
                 title: "示例歌曲1",
                 artist: "示例艺术家",
-                src: "music/song1.mp3",
+                // src: "music/song1.mp3",
+                src: "http://t5ye9m18x.hn-bkt.clouddn.com/music1/music/song1.mp3",
                 cover: "https://picsum.photos/200/200?random=1"
             },
             {
